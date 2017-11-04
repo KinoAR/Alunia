@@ -9,7 +9,7 @@ module.exports = class JavaScriptCommand extends discord_js_commando_1.Command {
             name: 'javascript',
             group: 'member',
             memberName: 'javascript',
-            description: 'Allows the user to enter basic JavaScript',
+            description: 'Allows the user to enter basic JavaScript.',
             examples: ['js var a = 3; a++;', 'js Object.prototype'],
             args: [
                 {

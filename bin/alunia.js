@@ -29,5 +29,6 @@ client.on('commandRun', (command, promise, message) => {
 });
 client.login(loginToken).then(() => {
     console.log(`Connected as: ${client.user.username}`);
+    client.user.setPresence({ game: { name: "RMMV | ~>help" } });
 });
 //# sourceMappingURL=alunia.js.map
