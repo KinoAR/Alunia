@@ -31,8 +31,7 @@ module.exports = class PluginDevs extends discord_js_commando_1.Command {
                 title: "MV Developers",
             });
             devEmbed.setColor("#2874A6");
-            console.log(devs);
-            devs.forEach((dev) => {
+            devs.sort((a, b) => a.name.localeCompare(b.name)).forEach((dev) => {
                 devEmbed.addField(dev.name, dev.url);
             });
             return message.say(devEmbed);
