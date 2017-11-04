@@ -1,0 +1,41 @@
+{
+  "name": "alunia",
+  "version": "1.0.0",
+  "description": "Discord bot for providing developers of RPGMakerMV with useful resources.",
+  "main": "bin/alunia.js",
+  "scripts": {
+    "test": "node ./bin/alunia.js",
+    "start": "NODE_ENV=production node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinoAR/Alunia.git"
+  },
+  "keywords": [
+    "alunia",
+    "bot",
+    "rpgmaker",
+    "rpgmakermv",
+    "rmmv",
+    "gamedev",
+    "game",
+    "typescript"
+  ],
+  "author": "Kino R <Kinorose@gmail.com> (http://endlessillusoft.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KinoAR/Alunia/issues"
+  },
+  "homepage": "https://github.com/KinoAR/Alunia#readme",
+  "dependencies": {
+    "@types/node": "^8.0.47",
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "github:gawdl3y/discord.js-commando#11.2",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "mathjs": "^3.16.5",
+    "moment": "^2.19.1",
+    "node-opus": "^0.2.7",
+    "sodium": "^2.0.1",
+    "uws": "^8.14.1"
+  }
+}
