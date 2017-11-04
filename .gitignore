@@ -4,3 +4,4 @@ test/
 test
 src/clientToken.ts
 bin/clientToken.js
+bin/clientToken.js.map
