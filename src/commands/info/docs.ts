@@ -4,14 +4,15 @@ import * as path from 'path';
 import * as fs from 'fs';
 import * as Utils from '../../services/utils';
 
-module.exports = class PluginDevsCommand extends Command {
+module.exports = class DocsCommand extends Command {
   constructor(client) {
     super(client, {
-      name: 'devs',
+      name: 'docs',
       group: 'info',
-      memberName: 'devs',
-      description: 'Lists a set of plugin developers.',
-      examples: ['devs', 'plugindevs'],
+      memberName: 'docs',
+      description: 'Lists documentation on RPGMakerMV.',
+      examples: ['docs', 'documentation'],
+      aliases: ['documentation', 'documents', 'doc'],
       throttling: {
         usages: 2,
         duration: 180,
@@ -20,20 +21,21 @@ module.exports = class PluginDevsCommand extends Command {
   }
 
   async run(message: CommandMessage) {
-    const data = await Utils.getFile("./public/pluginDevs.json");
-    const devs = JSON.parse(data as string) as IDev[];
+    const data = await Utils.getFile("./public/documentation.json");
+    const docs= JSON.parse(data as string) as IDoc[];
     const devEmbed = new RichEmbed({
       title: "MV Developers",
     });
     devEmbed.setColor("#2874A6");
-    devs.sort( (a, b) => a.name.localeCompare(b.name)).forEach((dev) => {
-      devEmbed.addField(dev.name, dev.url);
+    docs.sort((a, b) => a.name.localeCompare(b.name)).forEach((doc) => {
+      devEmbed.addField(doc.name, doc.url);
     });
     return message.say(devEmbed);
   }
 };
 
-interface IDev {
+interface IDoc {
   name: string;
+  description: string;
   url: string;
 }

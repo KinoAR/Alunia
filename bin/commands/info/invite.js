@@ -26,7 +26,7 @@ module.exports = class PluginDevs extends discord_js_commando_1.Command {
     run(message) {
         return __awaiter(this, void 0, void 0, function* () {
             const link = yield Utils.getFile("./public/invite.txt");
-            return message.say(`Invite Alunia: ${link}`);
+            return message.author.send(`Invite Alunia: ${link}`);
         });
     }
 };

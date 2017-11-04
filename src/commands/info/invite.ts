@@ -17,7 +17,7 @@ module.exports = class PluginDevs extends Command {
 
   async run(message: CommandMessage) {
     const link = await Utils.getFile("./public/invite.txt");
-    return message.say(`Invite Alunia: ${link}`);
+    return message.author.send(`Invite Alunia: ${link}`);
   }
 };
 

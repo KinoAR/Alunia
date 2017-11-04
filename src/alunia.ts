@@ -16,6 +16,7 @@ client.registry
   .registerGroups([
     ['admin', 'Admin'],
     ['member', 'Member'],
+    ['info', 'Information'],
     ['developer', 'Developer']
   ])
   .registerDefaultGroups()
