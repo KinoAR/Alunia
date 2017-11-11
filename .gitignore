@@ -3,5 +3,8 @@ node_modules/
 test/
 test
 src/clientToken.ts
+src/youtubeToken.ts
 bin/clientToken.js
 bin/clientToken.js.map
+bin/youtubeToken.js
+bin/youtubeToken.js.map
