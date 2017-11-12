@@ -1,0 +1,814 @@
+[
+  {
+    "text": "Bitmap",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/bitmap.html"
+  },
+  {
+    "text": "CacheEntry",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/cacheentry.html"
+  },
+  {
+    "text": "CacheMap",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/cachemap.html"
+  },
+  {
+    "text": "DataManager",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/datamanager.html"
+  },
+  {
+    "text": "FPSMeter",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/fpsmeter.html"
+  },
+  {
+    "text": "Game_Action",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_action.html"
+  },
+  {
+    "text": "Game_ActionResult",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_actionresult.html"
+  },
+  {
+    "text": "Game_Actor",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_actor.html"
+  },
+  {
+    "text": "Game_Actors",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_actors.html"
+  },
+  {
+    "text": "Game_Battler",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_battler.html"
+  },
+  {
+    "text": "Game_BattlerBase",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_battlerbase.html"
+  },
+  {
+    "text": "Game_Character",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_character.html"
+  },
+  {
+    "text": "Game_CharacterBase",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_characterbase.html"
+  },
+  {
+    "text": "Game_CommonEvent",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_commonevent.html"
+  },
+  {
+    "text": "Game_Enemy",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_enemy.html"
+  },
+  {
+    "text": "Game_Event",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_event.html"
+  },
+  {
+    "text": "Game_Follower",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_follower.html"
+  },
+  {
+    "text": "Game_Followers",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_followers.html"
+  },
+  {
+    "text": "Game_Interpreter",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_interpreter.html"
+  },
+  {
+    "text": "Game_Item",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_item.html"
+  },
+  {
+    "text": "Game_Map",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_map.html"
+  },
+  {
+    "text": "Game_Message",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_message.html"
+  },
+  {
+    "text": "Game_Party",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_party.html"
+  },
+  {
+    "text": "Game_Picture",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_picture.html"
+  },
+  {
+    "text": "Game_Player",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_player.html"
+  },
+  {
+    "text": "Game_Screen",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_screen.html"
+  },
+  {
+    "text": "Game_SelfSwitches",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_selfswitches.html"
+  },
+  {
+    "text": "Game_Switches",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_switches.html"
+  },
+  {
+    "text": "Game_System",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_system.html"
+  },
+  {
+    "text": "Game_Temp",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_temp.html"
+  },
+  {
+    "text": "Game_Timer",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_timer.html"
+  },
+  {
+    "text": "Game_Troop",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_troop.html"
+  },
+  {
+    "text": "Game_Unit",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_unit.html"
+  },
+  {
+    "text": "Game_Variables",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_variables.html"
+  },
+  {
+    "text": "Game_Vehicle",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/game_vehicle.html"
+  },
+  {
+    "text": "JsExtensions",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/jsextensions.html"
+  },
+  {
+    "text": "Point",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/point.html"
+  },
+  {
+    "text": "Rectangle",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/rectangle.html"
+  },
+  {
+    "text": "Scene_Base",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_base.html"
+  },
+  {
+    "text": "Scene_Battle",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_battle.html"
+  },
+  {
+    "text": "Scene_Boot",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_boot.html"
+  },
+  {
+    "text": "Scene_Debug",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_debug.html"
+  },
+  {
+    "text": "Scene_Equip",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_equip.html"
+  },
+  {
+    "text": "Scene_File",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_file.html"
+  },
+  {
+    "text": "Scene_GameEnd",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_gameend.html"
+  },
+  {
+    "text": "Scene_Gameover",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_gameover.html"
+  },
+  {
+    "text": "Scene_Item",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_item.html"
+  },
+  {
+    "text": "Scene_ItemBase",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_itembase.html"
+  },
+  {
+    "text": "Scene_Load",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_load.html"
+  },
+  {
+    "text": "Scene_Map",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_map.html"
+  },
+  {
+    "text": "Scene_Menu",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_menu.html"
+  },
+  {
+    "text": "Scene_MenuBase",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_menubase.html"
+  },
+  {
+    "text": "Scene_Name",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_name.html"
+  },
+  {
+    "text": "Scene_Options",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_options.html"
+  },
+  {
+    "text": "Scene_Save",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_save.html"
+  },
+  {
+    "text": "Scene_Shop",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_shop.html"
+  },
+  {
+    "text": "Scene_Skill",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_skill.html"
+  },
+  {
+    "text": "Scene_Status",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_status.html"
+  },
+  {
+    "text": "Scene_Title",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/scene_title.html"
+  },
+  {
+    "text": "ScreenSprite",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/screensprite.html"
+  },
+  {
+    "text": "ShaderTilemap",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/shadertilemap.html"
+  },
+  {
+    "text": "Sprite",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite.html"
+  },
+  {
+    "text": "Sprite_Actor",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_actor.html"
+  },
+  {
+    "text": "Sprite_Animation",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_animation.html"
+  },
+  {
+    "text": "Sprite_Balloon",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_balloon.html"
+  },
+  {
+    "text": "Sprite_Base",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_base.html"
+  },
+  {
+    "text": "Sprite_Battler",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_battler.html"
+  },
+  {
+    "text": "Sprite_Button",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_button.html"
+  },
+  {
+    "text": "Sprite_Character",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_character.html"
+  },
+  {
+    "text": "Sprite_Damage",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_damage.html"
+  },
+  {
+    "text": "Sprite_Destination",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_destination.html"
+  },
+  {
+    "text": "Sprite_Enemy",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_enemy.html"
+  },
+  {
+    "text": "Sprite_Picture",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_picture.html"
+  },
+  {
+    "text": "Sprite_StateIcon",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_stateicon.html"
+  },
+  {
+    "text": "Sprite_StateOverlay",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_stateoverlay.html"
+  },
+  {
+    "text": "Sprite_Timer",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_timer.html"
+  },
+  {
+    "text": "Sprite_Weapon",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/sprite_weapon.html"
+  },
+  {
+    "text": "Spriteset_Base",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/spriteset_base.html"
+  },
+  {
+    "text": "Spriteset_Battle",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/spriteset_battle.html"
+  },
+  {
+    "text": "Spriteset_Map",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/spriteset_map.html"
+  },
+  {
+    "text": "Stage",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/stage.html"
+  },
+  {
+    "text": "Tilemap",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/tilemap.html"
+  },
+  {
+    "text": "TilingSprite",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/tilingsprite.html"
+  },
+  {
+    "text": "ToneFilter",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/tonefilter.html"
+  },
+  {
+    "text": "ToneSprite",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/tonesprite.html"
+  },
+  {
+    "text": "Weather",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/weather.html"
+  },
+  {
+    "text": "WebAudio",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/webaudio.html"
+  },
+  {
+    "text": "WindowLayer",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/windowlayer.html"
+  },
+  {
+    "text": "Window_ActorCommand",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_actorcommand.html"
+  },
+  {
+    "text": "Window_Base",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_base.html"
+  },
+  {
+    "text": "Window_BattleActor",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_battleactor.html"
+  },
+  {
+    "text": "Window_BattleEnemy",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_battleenemy.html"
+  },
+  {
+    "text": "Window_BattleItem",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_battleitem.html"
+  },
+  {
+    "text": "Window_BattleLog",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_battlelog.html"
+  },
+  {
+    "text": "Window_BattleSkill",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_battleskill.html"
+  },
+  {
+    "text": "Window_BattleStatus",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_battlestatus.html"
+  },
+  {
+    "text": "Window_ChoiceList",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_choicelist.html"
+  },
+  {
+    "text": "Window_Command",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_command.html"
+  },
+  {
+    "text": "Window_DebugEdit",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_debugedit.html"
+  },
+  {
+    "text": "Window_DebugRange",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_debugrange.html"
+  },
+  {
+    "text": "Window_EquipCommand",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_equipcommand.html"
+  },
+  {
+    "text": "Window_EquipItem",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_equipitem.html"
+  },
+  {
+    "text": "Window_EquipSlot",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_equipslot.html"
+  },
+  {
+    "text": "Window_EquipStatus",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_equipstatus.html"
+  },
+  {
+    "text": "Window_EventItem",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_eventitem.html"
+  },
+  {
+    "text": "Window_GameEnd",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_gameend.html"
+  },
+  {
+    "text": "Window_Gold",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_gold.html"
+  },
+  {
+    "text": "Window_Help",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_help.html"
+  },
+  {
+    "text": "Window_HorzCommand",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_horzcommand.html"
+  },
+  {
+    "text": "Window_ItemCategory",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_itemcategory.html"
+  },
+  {
+    "text": "Window_ItemList",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_itemlist.html"
+  },
+  {
+    "text": "Window_MapName",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_mapname.html"
+  },
+  {
+    "text": "Window_MenuActor",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_menuactor.html"
+  },
+  {
+    "text": "Window_MenuCommand",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_menucommand.html"
+  },
+  {
+    "text": "Window_MenuStatus",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_menustatus.html"
+  },
+  {
+    "text": "Window_Message",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_message.html"
+  },
+  {
+    "text": "Window_NameEdit",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_nameedit.html"
+  },
+  {
+    "text": "Window_NameInput",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_nameinput.html"
+  },
+  {
+    "text": "Window_NumberInput",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_numberinput.html"
+  },
+  {
+    "text": "Window_Options",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_options.html"
+  },
+  {
+    "text": "Window_PartyCommand",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_partycommand.html"
+  },
+  {
+    "text": "Window_SavefileList",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_savefilelist.html"
+  },
+  {
+    "text": "Window_ScrollText",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_scrolltext.html"
+  },
+  {
+    "text": "Window_Selectable",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_selectable.html"
+  },
+  {
+    "text": "Window_ShopBuy",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_shopbuy.html"
+  },
+  {
+    "text": "Window_ShopCommand",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_shopcommand.html"
+  },
+  {
+    "text": "Window_ShopNumber",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_shopnumber.html"
+  },
+  {
+    "text": "Window_ShopSell",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_shopsell.html"
+  },
+  {
+    "text": "Window_ShopStatus",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_shopstatus.html"
+  },
+  {
+    "text": "Window_SkillList",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_skilllist.html"
+  },
+  {
+    "text": "Window_SkillStatus",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_skillstatus.html"
+  },
+  {
+    "text": "Window_SkillType",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_skilltype.html"
+  },
+  {
+    "text": "Window_Status",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_status.html"
+  },
+  {
+    "text": "Window_TitleCommand",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/window_titlecommand.html"
+  },
+  {
+    "text": "_Window",
+    "link": "https://kinoar.github.io/rmmv-doc-web/classes/_window.html"
+  },
+  {
+    "text": "Array",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/array.html"
+  },
+  {
+    "text": "AudioManagerStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/audiomanagerstatic.html"
+  },
+  {
+    "text": "BattleManagerStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/battlemanagerstatic.html"
+  },
+  {
+    "text": "ConfigManagerStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/configmanagerstatic.html"
+  },
+  {
+    "text": "DecrypterStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/decrypterstatic.html"
+  },
+  {
+    "text": "FPSMeterOptions",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/fpsmeteroptions.html"
+  },
+  {
+    "text": "GraphicsStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/graphicsstatic.html"
+  },
+  {
+    "text": "Html5AudioStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/html5audiostatic.html"
+  },
+  {
+    "text": "ImageManagerStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/imagemanagerstatic.html"
+  },
+  {
+    "text": "InputStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/inputstatic.html"
+  },
+  {
+    "text": "JsonExStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/jsonexstatic.html"
+  },
+  {
+    "text": "LZStringStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/lzstringstatic.html"
+  },
+  {
+    "text": "Math",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/math.html"
+  },
+  {
+    "text": "Number",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/number.html"
+  },
+  {
+    "text": "PluginManagerStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/pluginmanagerstatic.html"
+  },
+  {
+    "text": "SceneManagerStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/scenemanagerstatic.html"
+  },
+  {
+    "text": "SoundManagerStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/soundmanagerstatic.html"
+  },
+  {
+    "text": "StorageManagerStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/storagemanagerstatic.html"
+  },
+  {
+    "text": "String",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/string.html"
+  },
+  {
+    "text": "TextManagerStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/textmanagerstatic.html"
+  },
+  {
+    "text": "TouchInputStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/touchinputstatic.html"
+  },
+  {
+    "text": "UtilsStatic",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/utilsstatic.html"
+  },
+  {
+    "text": "$dataActors",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_dataactors"
+  },
+  {
+    "text": "$dataAnimations",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_dataanimations"
+  },
+  {
+    "text": "$dataArmors",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_dataarmors"
+  },
+  {
+    "text": "$dataClasses",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_dataclasses"
+  },
+  {
+    "text": "$dataCommonEvents",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_datacommonevents"
+  },
+  {
+    "text": "$dataEnemies",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_dataenemies"
+  },
+  {
+    "text": "$dataItems",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_dataitems"
+  },
+  {
+    "text": "$dataMap",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_datamap"
+  },
+  {
+    "text": "$dataMapInfos",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_datamapinfos"
+  },
+  {
+    "text": "$dataSkills",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_dataskills"
+  },
+  {
+    "text": "$dataStates",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_datastates"
+  },
+  {
+    "text": "$dataSystem",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_datasystem"
+  },
+  {
+    "text": "$dataTilesets",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_datatilesets"
+  },
+  {
+    "text": "$dataTroops",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_datatroops"
+  },
+  {
+    "text": "$dataWeapons",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_dataweapons"
+  },
+  {
+    "text": "$gameActors",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gameactors"
+  },
+  {
+    "text": "$gameMap",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gamemap"
+  },
+  {
+    "text": "$gameMessage",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gamemessage"
+  },
+  {
+    "text": "$gameParty",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gameparty"
+  },
+  {
+    "text": "$gamePlayer",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gameplayer"
+  },
+  {
+    "text": "$gameScreen",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gamescreen"
+  },
+  {
+    "text": "$gameSelfSwitches",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gameselfswitches"
+  },
+  {
+    "text": "$gameSwitches",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gameswitches"
+  },
+  {
+    "text": "$gameSystem",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gamesystem"
+  },
+  {
+    "text": "$gameTemp",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gametemp"
+  },
+  {
+    "text": "$gameTimer",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gametimer"
+  },
+  {
+    "text": "$gameTroop",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gametroop"
+  },
+  {
+    "text": "$gameVariables",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_gamevariables"
+  },
+  {
+    "text": "$testEvent",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#_testevent"
+  },
+  {
+    "text": "AudioManager",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#audiomanager"
+  },
+  {
+    "text": "BattleManager",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#battlemanager"
+  },
+  {
+    "text": "ConfigManager",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#configmanager"
+  },
+  {
+    "text": "Decrypter",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#decrypter"
+  },
+  {
+    "text": "Graphics",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#graphics"
+  },
+  {
+    "text": "Html5Audio",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#html5audio"
+  },
+  {
+    "text": "ImageManager",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#imagemanager"
+  },
+  {
+    "text": "Input",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#input"
+  },
+  {
+    "text": "JsonEx",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#jsonex"
+  },
+  {
+    "text": "LZString",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#lzstring"
+  },
+  {
+    "text": "PluginManager",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#pluginmanager"
+  },
+  {
+    "text": "SceneManager",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#scenemanager"
+  },
+  {
+    "text": "SoundManager",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#soundmanager"
+  },
+  {
+    "text": "StorageManager",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#storagemanager"
+  },
+  {
+    "text": "TextManager",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#textmanager"
+  },
+  {
+    "text": "TouchInput",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#touchinput"
+  },
+  {
+    "text": "Utils",
+    "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#utils"
+  }
+]
