@@ -810,5 +810,177 @@
   {
     "text": "Utils",
     "link": "https://kinoar.github.io/rmmv-doc-web/globals.html#utils"
+  },
+  {
+    "text": "Actor",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.actor.html"
+  },
+  {
+    "text": "Armor",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.armor.html"
+  },
+  {
+    "text": "AudioFile",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.audiofile.html"
+  },
+  {
+    "text": "BaseItem",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.baseitem.html"
+  },
+  {
+    "text": "CommonEvent",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.commonevent.html"
+  },
+  {
+    "text": "Damage",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.damage.html"
+  },
+  {
+    "text": "Effect",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.effect.html"
+  },
+  {
+    "text": "EquipItem",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.equipitem.html"
+  },
+  {
+    "text": "Event",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.event.html"
+  },
+  {
+    "text": "EventCommand",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.eventcommand.html"
+  },
+  {
+    "text": "Item",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.item.html"
+  },
+  {
+    "text": "MapInfo",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.mapinfo.html"
+  },
+  {
+    "text": "MetaData",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.metadata.html"
+  },
+  {
+    "text": "MoveCommand",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.movecommand.html"
+  },
+  {
+    "text": "MoveRoute",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.moveroute.html"
+  },
+  {
+    "text": "Skill",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.skill.html"
+  },
+  {
+    "text": "State",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.state.html"
+  },
+  {
+    "text": "Tileset",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.tileset.html"
+  },
+  {
+    "text": "Trait",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.trait.html"
+  },
+  {
+    "text": "UsableItem",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.usableitem.html"
+  },
+  {
+    "text": "Weapon",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/rpg.weapon.html"
+  }, 
+  {
+    "text": "Animation",
+    "link": "https://kinoar.github.io/rmmv-doc-web/modules/rpg.animation.html"
+  },
+  {
+    "text": "Enemy",
+    "link": "https://kinoar.github.io/rmmv-doc-web/modules/rpg.enemy.html"
+  },
+  {
+    "text": "System",
+    "link": "https://kinoar.github.io/rmmv-doc-web/modules/rpg.system.html"
+  },
+  {
+    "text": "Troop",
+    "link": "https://kinoar.github.io/rmmv-doc-web/modules/rpg.troop.html"
+  },
+  {
+    "text": "EventPage",
+    "link": "https://kinoar.github.io/rmmv-doc-web/modules/rpg.eventpage.html"
+  },
+  {
+    "text": "Map",
+    "link": "https://kinoar.github.io/rmmv-doc-web/modules/rpg.map.html"
+  },
+  {
+    "text": "Class",
+    "link": "https://kinoar.github.io/rmmv-doc-web/modules/rpg.class.html"
+  },
+  {
+    "text": "BattleEventPage",
+    "link": "https://kinoar.github.io/rmmv-doc-web/modules/rpg.battleeventpage.html"
+  },
+  {
+    "text": "AudioParameters",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.audioparameters.html"
+  },
+  {
+    "text": "BattleLogMethod",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.battlelogmethod.html"
+  },
+  {
+    "text": "BattleRewards",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.battlerewards.html"
+  },
+  {
+    "text": "BattlerAnimation",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.battleranimation.html"
+  },
+  {
+    "text": "CommandItem",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.commanditem.html"
+  },
+  {
+    "text": "ConfigData",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.configdata.html"
+  },
+  {
+    "text": "DatabaseFile",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.databasefile.html"
+  },
+  {
+    "text": "Matrix",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.matrix.html"
+  },
+  {
+    "text": "Motion",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.motion.html"
+  },
+  {
+    "text": "PluginSettings",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.pluginsettings.html"
+  },
+  {
+    "text": "SaveContents",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.savecontents.html"
+  },
+  {
+    "text": "SaveFileInfo",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.savefileinfo.html"
+  },
+  {
+    "text": "TextState",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.textstate.html"
+  },
+  {
+    "text": "TouchInputEvents",
+    "link": "https://kinoar.github.io/rmmv-doc-web/interfaces/mv.touchinputevents.html"
   }
 ]
